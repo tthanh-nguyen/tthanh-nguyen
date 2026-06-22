@@ -1,4 +1,4 @@
-# Hi there, I'm Nguyen Thanh Thanh 👋
+# 👋Hi there, I'm Nguyen Thanh Thanh 
 
 I am a first-year **Electronics and Telecommunications Engineering** student at Eastern International University (EIU). I have a deep passion for Embedded Systems, Robotics, and am actively pursuing a career pathway in the **Semiconductor industry & IC Design**.
 
