@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Nguyen Thanh Thanh 👋
 
-<!--
-**tthanh-nguyen/tthanh-nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a first-year **Electronics and Telecommunications Engineering** student at Eastern International University (EIU). I have a deep passion for Embedded Systems, Robotics, and am actively pursuing a career pathway in the **Semiconductor industry & IC Design**.
 
-Here are some ideas to get you started:
+### Technologies & Tools I am Learning:
+- **Languages:** C, Python
+- **Microcontrollers & Hardware:** STM32, Arduino, Transistors (NPN/PNP)
+- **Software & Frameworks:** ROS2, Keil C, STM32CubeMX, Ubuntu Linux, OrCAD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus:
+- Researching autonomous robotics and embedded programming at EIU FabLab.
+- Maintaining academic excellence to transition into advanced IC Design methodologies.
+
+**How to reach me:** thanh.nt.set25@eiu.edu.vn
